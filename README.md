@@ -1,4 +1,4 @@
-# Speech-and-NLP-
+# Speech-and-NLP
 This Repository contains code written as part of Assignments and Term Project in Speech and Natural Language Processing Course
 
 The First Assignment was on Language Models, Smoothing Methods and Prediction of Probabilities of a sentence based on a Language Model.
